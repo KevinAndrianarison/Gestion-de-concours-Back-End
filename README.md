@@ -1,1 +1,1 @@
-Tp run : npm start
+To run : npm start
